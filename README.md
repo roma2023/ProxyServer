@@ -1,6 +1,6 @@
 # ProxyLab Project
 
-This repository contains the code and documentation for the ProxyLab project, which is part of the course on Computer Networks. The project involves developing a multi-threaded web proxy that is capable of handling HTTP requests efficiently. This proxy offers features like caching and dynamic content filtering to optimize web traffic.
+This repository contains the code and documentation for the ProxyLab project, which is part of the course on Computer Systems. The project involves developing a multi-threaded web proxy that is capable of handling HTTP requests efficiently. This proxy offers features like caching and dynamic content filtering to optimize web traffic.
 
 ## Features
 - **Multi-threaded Design:** Enables concurrent processing of multiple client requests.
